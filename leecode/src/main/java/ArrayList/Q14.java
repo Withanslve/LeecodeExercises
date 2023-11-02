@@ -2,8 +2,6 @@ package ArrayList;
 
 /**
  * @author wengxiang
- * @version 1.0
- * @description TODO
  * @date 2023/11/2 22:06
  */
 
